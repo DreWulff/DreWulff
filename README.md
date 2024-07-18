@@ -1,22 +1,4 @@
-<style>
-figure {
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: 0px;
-  width: 400px;
-  border-radius: 5px;
-}
-
-figcaption {
-  background-color: #333;
-  color: white;
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
-</style>
-
-## Welcome to my <span style="color:#85f">Lair</span>!
+## Welcome to my Tavern!
 
 ### What I Do
 - **⚙️ Software Engineering**: Designing and implementing scalable and effective IT solutions for 
@@ -30,12 +12,11 @@ I have experience with the following languages and technologies, but I am still 
 - **Tools**: Docker, Kubernetes, AWS, git, Unity . . .
 - **Frameworks**: Express.js, React, MAUI . . .
 
-### <span style="color:#85f">Unrelated Picture of my Puppy</span>
+### Unrelated Picture of my Puppy
 
-<figure>
-    <img src="Precious.jpg" alt="drawing"/>
-    <figcaption>Isn't she cute?</figcaption>
-</figure>
+|![Yin](Precious.jpg)|
+|:--:|
+|*Isn't she cute?*|
 
 <!--
 **DreWulff/DreWulff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on MY GitHub profile.
