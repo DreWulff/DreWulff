@@ -1,7 +1,7 @@
 ## Welcome to my Hearth!
 
 ### What I Do
-- **⚙️ Software Engineering**: Designing and implementing scalable and effective IT solutions for 
+- **⚙️ Software Engineering**: Designing and implementing scalable and effective IT solutions.
 - **🎮 Game Modding and Development**: Creating all kinds of tools and mods for games, as well as creating my own.
 - **📚 Learning**: A curious soul can never stop studying.
 - **🍎 Apples**: I split apples in half with my hands every day.
