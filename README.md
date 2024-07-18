@@ -1,4 +1,4 @@
-## Welcome to my Tavern!
+## Welcome to my Hearth!
 
 ### What I Do
 - **⚙️ Software Engineering**: Designing and implementing scalable and effective IT solutions for 
@@ -12,7 +12,7 @@ I have experience with the following languages and technologies, but I am still 
 - **Tools**: Docker, Kubernetes, AWS, git, Unity . . .
 - **Frameworks**: Express.js, React, MAUI . . .
 
-### Unrelated Picture of my Puppy
+### Totally Relevant Picture of my Puppy
 
 |![Yin](Precious.jpg)|
 |:--:|
