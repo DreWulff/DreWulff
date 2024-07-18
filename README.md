@@ -14,7 +14,7 @@ I have experience with the following languages and technologies, but I am still 
 
 ### Totally Relevant Picture of my Puppy
 
-|![Yin](Precious.jpg)|
+|![Yin](Yin.jpg)|
 |:--:|
 |*Isn't she cute?*|
 
