@@ -4,7 +4,7 @@
 - **⚙️ Software Engineering**: Designing and implementing scalable and effective IT solutions.
 - **🎮 Game Modding and Development**: Creating all kinds of tools and mods for games, as well as creating my own.
 - **📚 Learning**: A curious soul can never stop studying.
-- **🍎 Apples**: I split apples in half with my hands every day.
+- **🍎 Apples**: An apple a day keeps ṫ̴̛̳̬͉̻̯͊̾̈́̆̕͝͝͠h̶̢͙̞̝̭̤̃͛̀́̕͘ë̵̡̥̜̝̥̫͈̜̱́̒̆͝͝͝ ̶̨̱̙̝̲̤͇̓̃͛̋́͐͂̋̚̕ͅṡ̷̨̛͈̰̲̮̺͖͙̲͎͉̈́̄͆̆͆̃̐͂̆͛̃̔̚h̸̜͈̙̗̯̱͇̆̂͆̈́̅́͌̕͘ä̷̛͉̜͙̘́̌̅p̵͈͖͖̦̤̍ȩ̵̛̯͔͇̐̓̍̿̎̿̚͘l̸̫̺̟̫͖̆e̴̳̤͐̽̎̃̑̒͛s̶̢̭̦̣̱͖͖̯̈̄͋̄̀̿̿̇̀͂́͂͝͝͝s̵͉̯̺̼̈̈̃ away.
 
 ### Tech Stack
 I have experience with the following languages and technologies, but I am still learning how to use them in a professional setting:
