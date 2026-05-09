@@ -4,13 +4,24 @@
 - **⚙️ Software Engineering**: Designing and implementing scalable and effective IT solutions.
 - **🎮 Game Modding and Development**: Creating all kinds of tools and mods for games, as well as creating my own.
 - **📚 Learning**: A curious soul can never stop studying.
-- **🍎 Apples**: An apple a day keeps ṫ̴̛̳̬͉̻̯͊̾̈́̆̕͝͝͠h̶̢͙̞̝̭̤̃͛̀́̕͘ë̵̡̥̜̝̥̫͈̜̱́̒̆͝͝͝ ̶̨̱̙̝̲̤͇̓̃͛̋́͐͂̋̚̕ͅṡ̷̨̛͈̰̲̮̺͖͙̲͎͉̈́̄͆̆͆̃̐͂̆͛̃̔̚h̸̜͈̙̗̯̱͇̆̂͆̈́̅́͌̕͘ä̷̛͉̜͙̘́̌̅p̵͈͖͖̦̤̍ȩ̵̛̯͔͇̐̓̍̿̎̿̚͘l̸̫̺̟̫͖̆e̴̳̤͐̽̎̃̑̒͛s̶̢̭̦̣̱͖͖̯̈̄͋̄̀̿̿̇̀͂́͂͝͝͝s̵͉̯̺̼̈̈̃ away.
+- **Only humans here**: The previously used emojis were MY choice
 
 ### Tech Stack
-I have experience with the following languages and technologies, but I am still learning how to use them in a professional setting:
-- **Languages**: Python, C#, C, Javascript, among others . . .
-- **Tools**: Docker, Kubernetes, AWS, git, Unity . . .
-- **Frameworks**: Express.js, React, MAUI . . .
+I have profesional experience with the following languages and technologies:
+- **Languages**:
+  - **PHP** ❤
+  - Python
+  - C#
+  - ~Javascript~ (JS suckz)
+  - *among others . . .*
+- **Tools**:
+  - Docker
+  - git (and GitLab/GitHub)
+  - Unity
+- **Frameworks**:
+  - **CodeIgniter4** ❤
+  - .NET
+  - ~React~
 
 ### Totally Relevant Picture of my Puppy
 
